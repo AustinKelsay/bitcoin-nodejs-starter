@@ -1,1 +1,1 @@
-# bitcoin-nodejs-starter
+# Plebdevs Workshop: Bitcoin Core Beginner
